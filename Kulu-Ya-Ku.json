@@ -1,0 +1,62 @@
+{
+	"Head": {
+		"Sever": "85",
+		"Blunt": "85",
+		"Ranged": "75",
+		"Fire": "15",
+		"Water": "20",
+		"Lightning": "15",
+		"Ice": "15",
+		"Dragon": "15",
+		"Stun": "100",
+		"Stamina": "100"
+	},
+	"Forearms": {
+		"Sever": "65",
+		"Blunt": "70",
+		"Ranged": "55",
+		"Fire": "15",
+		"Water": "20",
+		"Lightning": "15",
+		"Ice": "15",
+		"Dragon": "15",
+		"Stun": "0",
+		"Stamina": "100"
+	},
+	"Body": {
+		"Sever": "45",
+		"Blunt": "45",
+		"Ranged": "40",
+		"Fire": "15",
+		"Water": "20",
+		"Lightning": "15",
+		"Ice": "15",
+		"Dragon": "15",
+		"Stun": "0",
+		"Stamina": "100"
+	},
+	"Tail": {
+		"Sever": "55",
+		"Blunt": "50",
+		"Ranged": "35",
+		"Fire": "15",
+		"Water": "20",
+		"Lightning": "15",
+		"Ice": "15",
+		"Dragon": "15",
+		"Stun": "0",
+		"Stamina": "100"
+	},
+	"Rock": {
+		"Sever": "5",
+		"Blunt": "5",
+		"Ranged": "5",
+		"Fire": "5",
+		"Water": "20",
+		"Lightning": "5",
+		"Ice": "5",
+		"Dragon": "5",
+		"Stun": "0",
+		"Stamina": "0"
+	}
+}
