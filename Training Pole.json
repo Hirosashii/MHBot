@@ -1,0 +1,14 @@
+{
+	"Pole": {
+		"Sever": "80",
+		"Blunt": "80",
+		"Ranged": "80",
+		"Fire": "30",
+		"Water": "30",
+		"Thunder": "30",
+		"Ice": "30",
+		"Dragon": "30",
+		"Stun": "100",
+		"Stamina": "100"
+	}
+}
