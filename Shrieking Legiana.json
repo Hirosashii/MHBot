@@ -1,79 +1,86 @@
 {
-   "Head": [
-      "65",
-      "70",
-      "45",
-      "15",
-      "10",
-      "15",
-      "0",
-      "10",
-      "100"
-   ],
-   "Neck": [
-      "35",
-      "40",
-      "30",
-      "15",
-      "5",
-      "10",
-      "0",
-      "5",
-      "0"
-   ],
-   "Body": [
-      "25",
-      "25",
-      "50",
-      "25",
-      "5",
-      "10",
-      "0",
-      "5",
-      "0"
-   ],
-   "Back": [
-      "25",
-      "25",
-      "45",
-      "15",
-      "5",
-      "10",
-      "0",
-      "5",
-      "0"
-   ],
-   "Wings": [
-      "50",
-      "45",
-      "40",
-      "15",
-      "10",
-      "15",
-      "0",
-      "5",
-      "0"
-   ],
-   "Leg": [
-      "35",
-      "35",
-      "20",
-      "20",
-      "0",
-      "5",
-      "0",
-      "0",
-      "0"
-   ],
-   "Tail": [
-      "45",
-      "40",
-      "35",
-      "20",
-      "5",
-      "10",
-      "0",
-      "5",
-      "0"
-   ]
+	"Head": {
+		"Sever": "65",
+		"Blunt": "70",
+		"Ranged": "45",
+		"Fire": "15",
+		"Water": "10",
+		"Thunder": "15",
+		"Ice": "0",
+		"Dragon": "10",
+		"Stun": "100",
+		"Stamina": "undefined"
+	},
+	"Neck": {
+		"Sever": "35",
+		"Blunt": "40",
+		"Ranged": "30",
+		"Fire": "15",
+		"Water": "5",
+		"Thunder": "10",
+		"Ice": "0",
+		"Dragon": "5",
+		"Stun": "0",
+		"Stamina": "undefined"
+	},
+	"Body": {
+		"Sever": "25",
+		"Blunt": "25",
+		"Ranged": "50",
+		"Fire": "25",
+		"Water": "5",
+		"Thunder": "10",
+		"Ice": "0",
+		"Dragon": "5",
+		"Stun": "0",
+		"Stamina": "undefined"
+	},
+	"Back": {
+		"Sever": "25",
+		"Blunt": "25",
+		"Ranged": "45",
+		"Fire": "15",
+		"Water": "5",
+		"Thunder": "10",
+		"Ice": "0",
+		"Dragon": "5",
+		"Stun": "0",
+		"Stamina": "undefined"
+	},
+	"Wings": {
+		"Sever": "50",
+		"Blunt": "45",
+		"Ranged": "40",
+		"Fire": "15",
+		"Water": "10",
+		"Thunder": "15",
+		"Ice": "0",
+		"Dragon": "5",
+		"Stun": "0",
+		"Stamina": "undefined"
+	},
+	"Leg": {
+		"Sever": "35",
+		"Blunt": "35",
+		"Ranged": "20",
+		"Fire": "20",
+		"Water": "0",
+		"Thunder": "5",
+		"Ice": "0",
+		"Dragon": "0",
+		"Stun": "0",
+		"Stamina": "undefined"
+	},
+	"Tail": {
+		"Sever": "45",
+		"Blunt": "40",
+		"Ranged": "35",
+		"Fire": "20",
+		"Water": "5",
+		"Thunder": "10",
+		"Ice": "0",
+		"Dragon": "5",
+		"Stun": "0",
+		"Stamina": "undefined"
+	}
 }
